@@ -4,8 +4,7 @@ This folder contains a simple Three.js project to help you get started with 3D g
 
 ## Demo
 
-<video src="demo.mp4" controls width="400"></video>
-
+![Demo](demo.gif)
 
 ## Files
 
