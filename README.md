@@ -2,6 +2,11 @@
 
 This folder contains a simple Three.js project to help you get started with 3D graphics in the browser.
 
+## Demo
+
+<video src="demo.mp4" controls width="400"></video>
+
+
 ## Files
 
 - **index.html**  
@@ -26,9 +31,6 @@ This folder contains a simple Three.js project to help you get started with 3D g
 - You can edit `main.js` to experiment with different 3D objects and materials.
 - Make sure your browser supports ES Modules and import maps (recent versions of Chrome, Edge, or Firefox).
 
-## Demo
-
-<video src="demo.mp4" controls width="400"></video>
 
 ---
 
